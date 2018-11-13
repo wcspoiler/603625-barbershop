@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Ivan Chugunov](https://up.htmlacademy.ru/htmlcss/23/user/603625).
-
+* Наставник: [Дмитрий Мальнев](https://htmlacademy.ru/profile/fuckomako).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
